@@ -48,9 +48,9 @@ Here are some ideas to get you started:
   ![](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
   ![](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
   
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="[seu link](https://www.linkedin.com/in/vin%C3%ADcius-lombardi-ara%C3%BAjo-470964205/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://[www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/vin%C3%ADcius-lombardi-ara%C3%BAjo-470964205/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Lombardi-Araujo)](https://github.com/anuraghazra/github-readme-stats)
