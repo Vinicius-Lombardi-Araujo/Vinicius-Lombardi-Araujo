@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://[[www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/vin%C3%ADcius-lombardi-ara%C3%BAjo-470964205/)](https://www.linkedin.com/in/vin%C3%ADcius-lombardi-ara%C3%BAjo-470964205/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/vinícius-lombardi-araújo-470964205/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Lombardi-Araujo)](https://github.com/anuraghazra/github-readme-stats)
