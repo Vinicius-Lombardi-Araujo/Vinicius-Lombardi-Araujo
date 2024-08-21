@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 - 📖 Sudying software engineering since 2017
 - 💻 Working as Java Developer since 2020
-
-  <h3 align="left">My Main Skills</h3>
+<h3 align="left">My Main Skills</h3>
 
   ![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
   ![](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
