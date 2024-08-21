@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - 📖 Sudying software engineering since 2017
 - 💻 Working as Java Developer since 2020
+- 🌱 I’m currently learning Typescript and Angular
 <h3 align="left">My Main Skills</h3>
 
   ![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -49,7 +50,8 @@ Here are some ideas to get you started:
   
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vinícius-lombardi-araújo-470964205/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- Email: vini_laraujo@hotmail.com
+- <a href="https://www.linkedin.com/in/vinícius-lombardi-araújo-470964205/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Lombardi-Araujo)](https://github.com/anuraghazra/github-readme-stats)
