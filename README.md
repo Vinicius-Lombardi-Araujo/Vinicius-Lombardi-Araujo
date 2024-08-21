@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, I'm Vinícius 👋
 
 <!--
 **Vinicius-Lombardi-Araujo/Vinicius-Lombardi-Araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
