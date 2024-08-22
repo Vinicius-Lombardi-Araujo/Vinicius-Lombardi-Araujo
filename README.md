@@ -52,6 +52,8 @@ Here are some ideas to get you started:
   
 <h3 align="left">Connect with me</h3>
 <p align="left">
-- Email ✉️ : vini_laraujo@hotmail.com
-- <a href="https://www.linkedin.com/in/vinícius-lombardi-araújo-470964205/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+Email ✉️ : vini_laraujo@hotmail.com 
+</p>
+<p align="left">
+<a href="https://www.linkedin.com/in/vinícius-lombardi-araújo-470964205/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
