@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - 📖 Sudying software engineering since 2017
 - 💻 Working as Java Developer since 2020
+- 💡 Interested in REST APIs and Microservices
 - 🌱 Learning Typescript and Angular
 - 💼 Looking for a job opportunity as Java Backend Developer
   
