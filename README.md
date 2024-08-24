@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">About Me</h3>
 
+I'm a Backend developer with experience in building and mantaining systems using Java and Spring Framework. I'm deeply interest in solving challenges related to data processing, and constantly seeking to improve myself by studying different technologies. My focus is on delivering efficient and scalable solutions while expanding my skills and knowledge, aiming to be an experienced and versatile programmer.
+
 - 📖 Sudying software engineering since 2017
 - 💻 Working as Java Developer since 2020
 - 💡 Interested in REST APIs and Microservices
